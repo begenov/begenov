@@ -9,7 +9,7 @@ On my GitHub profile, you will find a collection of projects that showcase my co
 
 </br>
 
-<h3>Caso queira acompanhar meus conteúdos:</h3> 
+<h3>Contact Me:</h3> 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/orazali-begenov-694147267/" alt="Linkedin">
