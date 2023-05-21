@@ -19,4 +19,8 @@ On my GitHub profile, you will find a collection of projects that showcase my co
   <a href="https://discord.com/channels/orazali#8873" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-ff3a5e?style=for-the-badge&logo=Discord&logoColor=FFF"/>
   </a>
+  <a href="https://leetcode.com/OrazaliBegenov/" alt="LeetCode">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=fff"/>
+  </a>
+
 </div>
