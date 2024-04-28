@@ -1,7 +1,7 @@
 
 <h2>Hello World ☕</h2>
 
-<p>My name is Orazali and I am 21 years old. I am currently living in Astana, Kazakhstan and I am a student at ENU. I am also attending Alem School to further develop my programming skills.
+<p>My name is Orazali and I am 22 years old. I am currently living in Astana, Kazakhstan and I am a student at ENU. I am also attending Alem School to further develop my programming skills.
 
 Currently, I am focused on learning Golang and becoming a backend developer. As a software developer, I am always looking for ways to improve my coding skills and take on new challenges.
 
